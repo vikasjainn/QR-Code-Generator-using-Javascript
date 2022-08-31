@@ -8,12 +8,16 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
-
+.body{
+  background-image: url("../images/bg.png");
+}
 body {
+  /* background-image: url(""); */
   font-family: "Muli-Regular";
   font-size: 14px;
   margin: 0;
-  color: #999; }
+  /* color: #999; */
+ }
 
 input, textarea, select, button {
   font-family: "Muli-Regular"; }
@@ -59,7 +63,9 @@ a {
 .image-2 {
   position: absolute;
   bottom: 0;
-  right: -129px; }
+  right: -129px; 
+  left: 280px;
+}
 
 .form {
   width: 100%;
