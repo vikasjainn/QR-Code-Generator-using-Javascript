@@ -1,1 +1,1 @@
-# QR-Code-Generator-using-Javascript by Vikas Jain
+# QR-Code-Generator-using-Javascript
