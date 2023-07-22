@@ -1,1 +1,1 @@
-# QR-Code Generator in Javascript by Vikas
+# QR-Code Generator in Javascript 
